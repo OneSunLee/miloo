@@ -5,7 +5,7 @@
 #include <utility>
 #include <queue>
 
-constexpr int barrelA{ 4 }, barrelB{ 5 }, water{ 3 };
+constexpr int barrelA{ 5 }, barrelB{4 }, water{ 3 };
 
 auto BFS()
 {
